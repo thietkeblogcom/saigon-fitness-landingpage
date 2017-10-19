@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'Ultimate-Icons';
   src:
-    url('fonts/Ultimate-Icons.ttf?1ddi1j') format('truetype'),
-    url('fonts/Ultimate-Icons.woff?1ddi1j') format('woff'),
-    url('fonts/Ultimate-Icons.svg?1ddi1j#Ultimate-Icons') format('svg');
+    url('https://raw.githubusercontent.com/thietkeblogcom/saigon-fitness-landingpage/master/fonts/Ultimate-Icons.ttf?1ddi1j') format('truetype'),
+    url('https://raw.githubusercontent.com/thietkeblogcom/saigon-fitness-landingpage/master/fonts/Ultimate-Icons.woff?1ddi1j') format('woff'),
+    url('https://raw.githubusercontent.com/thietkeblogcom/saigon-fitness-landingpage/master/fonts/Ultimate-Icons.svg?1ddi1j#Ultimate-Icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
